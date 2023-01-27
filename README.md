@@ -1,15 +1,13 @@
 ## Hey Welcome to [Azury Industries](https://discord.gg/azury) official bio!
 
 
-Check our our [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://azury.townbots.co/)
+Check out our [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://azury.townbots.co/)
 
 ### What is Azury Industries? &nbsp; 
 
 Azury Industries is a discord company consisting on creating high quality codes, discord bots, and others. We view things in the eyes of the customer, no expsnsive prices, and easy to use codes!
 
 We started coding around **2** years ago.
-
-Since then I pushed **2544**+ commits, opened **229**+ issues, submitted **280**+ pull requests, created **20**+ gists and contributed to **25**+ public repositories.
 
 
 ### Languages and Tools:
